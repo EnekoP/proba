@@ -21,12 +21,14 @@ public class Hauteskundeak {
 	public static void main(String[] args) {
 		Hauteskundeak h2021 = new Hauteskundeak();
 
+
 		h2021.gehituMahaia("Irun");
 		h2021.gehituMahaia("Donostia");
 		h2021.gehituMahaia("Tolosa");
 		h2021.gehituMahaia("Bergara");
 		h2021.gehituMahaia("Andoain");
 		h2021.gehituMahaia("Hernani");
+		// GOLAZO DE MI PANA MANOLAS Y EL BARCA AL CARRER //
 
 		System.out.println(h2021);
 	}
